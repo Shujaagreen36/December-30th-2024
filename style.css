@@ -166,7 +166,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 90%;
+    width: 900%;
     max-width: 1200px;
     gap: 2rem;
     opacity: 0;
@@ -184,7 +184,7 @@ body {
     position: relative;
     flex: 1;
     max-width: 400px;
-    height: 400px; /* Square dimensions */
+    height: 600px; /* Square dimensions */
     border-radius: 20px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -193,7 +193,7 @@ body {
 
 .hero-image img {
     width: 145%;
-    height: 200%;
+    height: 100%;
     object-fit: cover;
 }
 
